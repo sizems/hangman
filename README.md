@@ -1,6 +1,6 @@
 # Hangman
 
-Playable game is currently hosted at https://sfwinters.github.io
+Playable game is currently hosted at https://sfwinters.github.io. I used an external package for the random word generator: https://www.npmjs.com/package/rword.
 
 The player has two options: they can enter a word of their choosing (for 2 player games) or they can have a random word selected for them. Once the word is selected, the empty spaces will populate and the player will be given a box to submit their guesses.
 
